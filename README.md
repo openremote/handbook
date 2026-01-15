@@ -1,6 +1,6 @@
 # OpenRemote Handbook
 
-[![GitHub Actions Status](https://github.com/openremote/documentation/actions/workflows/ci_cd.yml/badge.svg?branch=main)](https://github.com/openremote/handbook/actions/workflows/ci_cd.yml)
+[![GitHub Actions Status](https://github.com/openremote/handbook/actions/workflows/ci_cd.yml/badge.svg?branch=main)](https://github.com/openremote/handbook/actions/workflows/ci_cd.yml)
 
 This repository contains the OpenRemote handbook hosted on https://handbook.openremote.io/ as Markdown files in the [docs directory](docs).
 

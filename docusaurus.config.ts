@@ -167,38 +167,6 @@ const config: Config = {
       ],
       copyright: `© ${new Date().getFullYear()} OpenRemote, Inc. All Rights Reserved.`,
     },
-    languageTabs: [
-      {
-        language: "curl",
-      },
-      {
-        language: "nodejs",
-      },
-      {
-        language: "java",
-      },
-      {
-        language: "python",
-      },
-      {
-        language: "ruby",
-      },
-      {
-        language: "csharp",
-      },
-      {
-        language: "go",
-      },
-      {
-        language: "php",
-      },
-      {
-        language: "powershell",
-      },
-    ],
-    prism: {
-      additionalLanguages: ['bash', 'cpp', 'csharp', 'docker', 'groovy', 'java', 'javascript', 'json', 'python', 'ruby'],
-    },
     algolia: {
       apiKey: '18c8ff9992cf5a0b37acb9b008fa7cd9',
       appId: 'TVHZ0YEM1U',

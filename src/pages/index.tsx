@@ -5,7 +5,7 @@ function Home() {
     window.location.href = '/docs/introduction';
   }, []);
 
-  return null
+  return null;
 }
 
 export default Home;
