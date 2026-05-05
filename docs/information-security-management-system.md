@@ -17,7 +17,7 @@ Changes to policies and procedures are reviewed and approved by the relevant pro
 
 ## **3.3 Evidence Register** {#3.3-evidence-register}
 
-The evidence register for tools and services provides a structured overview of documentation and system records that demonstrate the implementation of organisational processes and security controls ([see section 16](https://docs.google.com/document/d/1h8XZPTz7iXRbi2q1xlxtmhlsGH6GRX0C/edit?pli=1#heading=h.yki34t5ju6ez)). Evidence may include monitoring logs, development records, meeting minutes, incident reports, and system configuration documentation.
+The evidence register for tools and services provides a structured overview of documentation and system records that demonstrate the implementation of organisational processes and security controls ([see section 16](./evidence-register-tools-and-systems)). Evidence may include monitoring logs, development records, meeting minutes, incident reports, and system configuration documentation.
 
 The register links each key control or process to the relevant source of evidence and identifies the responsible owner for maintaining that information . This approach ensures transparency and facilitates internal reviews and external audits.
 
