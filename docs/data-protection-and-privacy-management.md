@@ -16,7 +16,11 @@ OpenRemote retains operational and organisational records for an unlimited perio
 
 When required, data is securely deleted or archived.
 
-## **11.3 Data Subject Rights Handling – PLACEHOLDER** {#11.3-data-subject-rights-handling-–-placeholder}
+## **11.3 Data Subject Rights Handling** {#11.3-data-subject-rights-handling-–-placeholder}
+
+:::note
+This is work in progress and not fully implemented yet, as OpenRemote, we are working on this subject and will publish an update soon.
+:::
 
 When personal data is processed, OpenRemote supports the rights of individuals as defined by GDPR, including requests for access, correction, or deletion of personal data.
 

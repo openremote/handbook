@@ -45,7 +45,11 @@ Our main services are
 
 The details and status of the disaster recovery plan is laid down in situation assessment which is continuously improved and described in [disaster recovery](https://docs.google.com/document/d/1zSvdKXf0o0t_39qCwqVoqNm4YByEAkhBjUL57YM8KMs/edit?usp=sharing).
 
-## **9.3 Resilience Testing – PLACEHOLDER** {#9.3-resilience-testing-–-placeholder}
+## **9.3 Resilience Testing** {#9.3-resilience-testing-–-placeholder}
+
+:::note
+This is work in progress and not fully implemented yet, as OpenRemote, we are working on this subject and will publish an update soon.
+:::
 
 OpenRemote periodically tests the resilience of its systems and recovery procedures. Tests may include backup restoration, service failover simulations, or recovery exercises.
 

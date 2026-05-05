@@ -35,7 +35,11 @@ Continuous integration and deployment pipelines include safeguards to protect th
 
 Automated testing and validation steps are included in the pipeline to verify the functionality and integrity of new releases before deployment. Penetration tests are performed yearly.
 
-## **5.5 SBOM Management – PLACEHOLDER** {#5.5-sbom-management-–-placeholder}
+## **5.5 SBOM Management** {#5.5-sbom-management-–-placeholder}
+
+:::note
+This is work in progress and not fully implemented yet, as OpenRemote, we are working on this subject and will publish an update soon.
+:::
 
 To maintain transparency regarding software components, OpenRemote maintains a software bill of materials (SBOM) describing dependencies used in its software releases. The SBOM provides visibility into third-party libraries and components integrated into the platform.
 

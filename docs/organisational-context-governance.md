@@ -18,7 +18,11 @@ The half year cycle is organised as a face to face meeting of the whole organisa
 
 The daily (stand-up) and (two)weekly meeting cycle, with the complete team, is primarily intended to review and plan the running program of projects as well as product development and define and monitor short term corrective or preventive quality improvement actions. The meeting also monitors the long term improvement actions defined during the half year cycle.
 
-## **2.3 Roles and Responsibilities – EXPANDED PLACEHOLDER** {#2.3-roles-and-responsibilities-–-expanded-placeholder}
+## **2.3 Roles and Responsibilities** {#2.3-roles-and-responsibilities-–-expanded-placeholder}
+
+:::note
+This is preliminary information, as OpenRemote, we are working on this subject and will publish an update soon. 
+:::
 
 OpenRemote defines clear roles and responsibilities to ensure effective governance of quality, security, and operational processes. The CEO is accountable for the overall management system, including quality and compliance. The CTO is responsible for technical governance, product security, and Product owner for a secure development lifecycle.
 
