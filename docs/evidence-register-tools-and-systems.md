@@ -45,7 +45,7 @@ The management team has administrative access to all tools, via Bitwarden. Team 
 
 ## **16.2 Reporting and Documentation** {#16.2-reporting-and-documentation}
 
-To support the processes several documents are available to document the activities within these processes, monitor their performance, define and track improvements, and communicate to relevant stakeholders. Below is the list of available documentation, the owner, access rights, and its location. Documents are stored and back-ed up and archived indefinitely.
+To support the processes several documents are available to document the activities within these processes, monitor their performance, define and track improvements, and communicate to relevant stakeholders. Below is the list of available documentation, the owner, access rights, and its location. Documents are stored and backed up and archived indefinitely.
 
 | Report or document | Owner | Access beyond management | Location |
 | :---- | :---- | :---- | :---- |

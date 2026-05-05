@@ -7,9 +7,13 @@ sidebar_position: 5
 
 Our Software Development Lifecycle (SDLC) primarily focuses on the development of our software product, hence the reason to call it Product Development Lifecycle. For product development projects the Product owner is managing a roadmap, while function managers are responsible for feature realisation and testing & release.
 
-During development developers work on a separate feature branch on new product features, including tests. New code is released to the main branch after reviews, running and passing all automated tests. A CI/CD system manages the automated tests.
+During development developers work on a separate feature branch on new product features, including tests.
+New code is released to the main branch after reviews, running and passing all automated tests. A CI/CD system manages the automated tests.
 
-In testing and review, code is tested and reviewed on a staging test environment by a colleague developer. Issues are tracked and solved, using the scrum system. Once everything is resolved, code is merged with the main branch. For an official release, once Product owner and CTO agree, an update of all packages including documentation is created, managed by a team member.
+In testing and review, code is tested and reviewed on a staging test environment by a colleague developer.
+Issues are tracked and solved, using the scrum framework.
+Once everything is resolved, code is merged with the main branch.
+For an official release, once Product owner and CTO agree, an update of all packages including documentation is created, managed by a team member.
 
 The product feature realisation is managed the same as development for projects, described in [section 13.2](./core-operational-processes#13.2-project-realisation) as part of project realisation.
 
