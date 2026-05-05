@@ -18,7 +18,7 @@ Customers who distribute the code commercially can agree on a commercial license
 
 ## **13.2 Project Realisation** {#13.2-project-realisation}
 
-For project realisation, an agile approach is used with iterations based on issues as defined as part of roadmap, refinement and sprint planning (section 13.3) supported by a scrum based planning system. As part of realisation, automated system and unit tests are developed and included to safeguard code quality.
+For project realisation, an agile approach is used with iterations based on issues as defined as part of roadmap, refinement and sprint planning ([section 13.3](./core-operational-processes#13.3-roadmapping,-refinement-and-sprint-planning)) supported by a scrum based planning system. As part of realisation, automated system and unit tests are developed and included to safeguard code quality.
 
 Daily standups are organised in two rounds with the complete team, the first for each participant to share what he has worked on, will work on and raise impediments. The second round is to discuss impediments and possible resolutions.
 
