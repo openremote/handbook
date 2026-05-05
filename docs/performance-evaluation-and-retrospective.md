@@ -10,7 +10,7 @@ OpenRemote has defined a series of KPIs to monitor the overall performance of th
 
 If relevant, improvement plans derived from the reviews are additionally monitored as part of the weekly meetings. In case of urgent corrective actions, they can also become part of project activities and their respective project reviews. 
 
-The Key Performance Indicators are part of a yearly [quality report](https://docs.google.com/presentation/d/1SQ44S_9UqY3gidl3je3oWDCApJw5vg9U?rtpof=true&usp=drive_fs) and include KPIs for Customer focus, Financials, People, Quality of processes and non conformity and Quality improvement.
+The Key Performance Indicators are part of a yearly [quality report](https://docs.google.com/presentation/d/1SQ44S_9UqY3gidl3je3oWDCApJw5vg9U?rtpof=true&usp=drive_fs) (restriced access) and include KPIs for Customer focus, Financials, People, Quality of processes and non conformity and Quality improvement.
 
 ## **14.2 Internal Retrospective** {#14.2-internal-retrospective}
 

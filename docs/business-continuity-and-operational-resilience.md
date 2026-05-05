@@ -43,7 +43,7 @@ Our main services are
 * Google Playstore  
 * Apple account
 
-The details and status of the disaster recovery plan is laid down in situation assessment which is continuously improved and described in [disaster recovery](https://docs.google.com/document/d/1zSvdKXf0o0t_39qCwqVoqNm4YByEAkhBjUL57YM8KMs/edit?usp=sharing).
+The details and status of the disaster recovery plan is laid down in situation assessment which is continuously improved and described in [disaster recovery](https://docs.google.com/document/d/1zSvdKXf0o0t_39qCwqVoqNm4YByEAkhBjUL57YM8KMs/edit?usp=sharing) (restricted access).
 
 ## **9.3 Resilience Testing** {#9.3-resilience-testing-–-placeholder}
 

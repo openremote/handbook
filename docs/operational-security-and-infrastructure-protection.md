@@ -14,7 +14,7 @@ Service requests (bugs and issues) are reviewed by the sales and account manager
 
 ## **7.2 Data Security and Privacy** {#7.2-data-security-and-privacy}
 
-We maintain a living document around data security and privacy, intended to regularly perform an internal audit or one with customers to validate our performance regarding data security and privacy. See [Data Security](https://docs.google.com/spreadsheets/d/1ZQamPOVlZD5hcV3vi7DTev9K7-b2bxa8?rtpof=true&usp=drive_fs)
+We maintain a living document around data security and privacy, intended to regularly perform an internal audit or one with customers to validate our performance regarding data security and privacy. See [Data Security](https://docs.google.com/spreadsheets/d/1ZQamPOVlZD5hcV3vi7DTev9K7-b2bxa8?rtpof=true&usp=drive_fs) (restriceted access).
 
 ## **7.3 Identity and Access Management** {#7.3-identity-and-access-management}
 
