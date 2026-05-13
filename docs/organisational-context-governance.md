@@ -35,7 +35,7 @@ Specific responsibilities are assigned for information security management, inci
 | Quality officer | Security officer, ISMS owner, <br/>Quality compliance monitoring                                                         |
 | Product owner | Functional Roadmap and programming<br/>Capacity and sprint planning<br/>Secure development lifecycle                         |
 | Project manager | Project realisation<br/>Project production deployment                                                                    |
-| EPIC owner | Product EPIC management                                                                                              |
+| Epic owner | Product Epic management                                                                                              |
 | Project technical lead | Project architecture<br/>Technical project realisation                                                                   |
 | UX manager | Marketing visual communication<br/>User requirements refinement for product features<br/>Product UX                          |
 | Software developers | Code development<br/>Code review of development work of colleagues                                                       |
