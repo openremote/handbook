@@ -49,8 +49,8 @@ To support the processes several documents are available to document the activit
 
 | Report or document | Owner | Access beyond management | Location |
 | :---- | :---- | :---- | :---- |
-| Weekly meeting summary | CEO/CTO | All | Network drive |
-| Half yearly meeting summary | CEO | All | Network Drive |
+| Weekly meeting summary | CEO/CTO | All | [Network drive](https://drive.google.com/open?id=1Bd0Sr7Ed4qYkVfWM_7PPNThDWujrtm4D&usp=drive_fs) |
+| Half yearly meeting summary | CEO | All | [Network Drive](https://drive.google.com/open?id=1YkKGSoldbJ1xdcG0A24EGe0GQce2FDuy&usp=drive_fs) |
 | Project communication | Project manager | Project team | Network Drive, Slack |
 | Project timesheets | Project manager | Project team | Network drive |
 | Strategy document | Management team | All | Network Drive |
@@ -59,27 +59,27 @@ To support the processes several documents are available to document the activit
 | Project proposals | Project manager | All | Network Drive |
 | Purchase orders | CEO | Project manager | Network Drive |
 | Commercial license agreements | CEO | Project manager | Network Drive |
-| Development code  | CTO | All | GitHub |
-| Documentation | CTO | All | GitHub repo |
-| Roadmap and product requirements | Product owner | All | Network Drive |
-| Sprint planning | Product owner | All | GitHub |
+| Development code  | CTO | All | [GitHub](https://github.com/openremote/) |
+| Documentation | CTO | All | [GitHub repo](https://github.com/openremote/documentation) |
+| Roadmap and product requirements | Product owner | All | [Network Drive](https://drive.google.com/open?id=1W_OqixcECv7VjS4bx561vdZstR8-aC4m&usp=drive_fs) |
+| Sprint planning | Product owner | All | [GitHub](https://github.com/orgs/openremote/projects/20) |
 | Health status reports | CTO | All | CloudWatch |
 | Community communication | CEO, CTO | All | Discourse |
 | Contributor license agreements | CTO |  | Network Drive |
 | Stock agreements | CEO | Only Chairman Board | Network Drive |
 | Consultancy agreements | CEO | Only Chairman Board | Network Drive |
 | Employee contracts | CEO | Only Chairman Board | Network Drive |
-| Work regulations | CEO | All | Network Drive |
-| Risk management register | CEO | All | Network Drive |
-| Quality KPIs and improvement | CEO | All | Network Drive |
-| Data security and improvement | CEO | All | Network Drive |
-| Business Continuity | CEO | All | Network Drive |
-| Disaster Recovery | CEO | All | Network Drive |
+| Work regulations | CEO | All | [Network Drive](https://drive.google.com/open?id=1ZVKxvutXTiN-ovTqczIwfH8kkJm2laBG&usp=drive_fs) |
+| Risk management register | CEO | All | [Network Drive](https://docs.google.com/spreadsheets/d/1VdWBIt-wIhz2ZGePfPHtdB-EPmO7fwbhT7ib5W9GXi4?usp=drive_fs) |
+| Quality KPIs and improvement | CEO | All | [Network Drive](https://docs.google.com/presentation/d/1SQ44S_9UqY3gidl3je3oWDCApJw5vg9U?rtpof=true&usp=drive_fs) |
+| Data security and improvement | CEO | All | [Network Drive](https://docs.google.com/spreadsheets/d/1ZQamPOVlZD5hcV3vi7DTev9K7-b2bxa8?rtpof=true&usp=drive_fs) |
+| Business Continuity | CEO | All | [Network Drive](https://drive.google.com/open?id=1Z_-MRskIaroGc8-nIZP_qUgAB99R1TPE&usp=drive_fs) |
+| Disaster Recovery | CEO | All | [Network Drive](https://docs.google.com/document/d/1zSvdKXf0o0t_39qCwqVoqNm4YByEAkhBjUL57YM8KMs?usp=drive_fs) |
 | Project pricing and costs sheet | CEO | Project managers | Network Drive |
 | Financial project monitoring | CEO | Only Chairman Board | Network Drive |
 | OPEX monitoring | CEO | Only Chairman Board | Network Drive |
 | Tax reporting | Financial Controller[^1] |  |  |
-| Quality handbook (including references) | CEO | All | Online handbook |
+| Quality handbook (including references) | CEO | All | [Online handbook](https://handbook.openremote.io) |
 
 ## **16.3 Access Control to Tools** {#16.3-access-control-to-tools}
 
