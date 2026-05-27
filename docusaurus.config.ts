@@ -168,9 +168,9 @@ const config: Config = {
       copyright: `© ${new Date().getFullYear()} OpenRemote, Inc. All Rights Reserved.`,
     },
     algolia: {
-      apiKey: '18c8ff9992cf5a0b37acb9b008fa7cd9',
-      appId: 'TVHZ0YEM1U',
-      indexName: 'openremote',
+      apiKey: 'c6085332effe30a5d24493fcd7d29f5a',
+      appId: 'B7C3QZQ81K',
+      indexName: 'or-handbook',
     },
   } satisfies Preset.ThemeConfig,
 };
