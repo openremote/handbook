@@ -35,7 +35,7 @@ Specific responsibilities are assigned for information security management, inci
 | Quality officer | Security officer, ISMS owner, <br/>Quality compliance monitoring                                                         |
 | Product owner | Roadmap and programming<br/>Capacity and sprint planning<br/>Secure development lifecycle                         |
 | Project manager | Project realisation<br/>Project production deployment                                                                    |
-| Topic owner | Manages a main topic or feature as gatekeeper                                                                                      |
+| Topic owner | Manages a main topic or feature<br/>Gatekeeper to define and plan issues                                     |
 | Project technical lead | Project architecture<br/>Technical project realisation                                                                   |
 | UX manager | Marketing visual communication<br/>User requirements refinement for product features<br/>Product UX                          |
 | Software developers | Code development<br/>Code review of development work of colleagues                                                       |
