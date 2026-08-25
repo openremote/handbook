@@ -33,9 +33,9 @@ Specific responsibilities are assigned for information security management, inci
 | CEO | Sales<br/>Financial and Personnel management<br/>Quality officer                                                           |
 | CTO | System architecture<br/>Technical Roadmap<br/>Security lead and incidence response coordinator<br/>Infrastructure administration |
 | Quality officer | Security officer, ISMS owner, <br/>Quality compliance monitoring                                                         |
-| Product owner | Functional Roadmap and programming<br/>Capacity and sprint planning<br/>Secure development lifecycle                         |
+| Product owner | Roadmap and programming<br/>Capacity and sprint planning<br/>Secure development lifecycle                         |
 | Project manager | Project realisation<br/>Project production deployment                                                                    |
-| EPIC owner | Manages a main feature and roadmap as gatekeeper                                                                                              |
+| Topic owner | Manages a main topic or feature as gatekeeper                                                                                      |
 | Project technical lead | Project architecture<br/>Technical project realisation                                                                   |
 | UX manager | Marketing visual communication<br/>User requirements refinement for product features<br/>Product UX                          |
 | Software developers | Code development<br/>Code review of development work of colleagues                                                       |
