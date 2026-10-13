@@ -75,12 +75,12 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/openremote/openremote',
+          href: 'https://github.com/openremote/core',
           label: 'GitHub',
           position: 'right',
         },
         {
-          href: 'https://www.openremote.io/',
+          href: 'https://openremote.io/',
           label: 'Website',
           position: 'right',
         },
@@ -136,19 +136,19 @@ const config: Config = {
           items: [
             {
               label: 'Website',
-              to: 'https://www.openremote.io/',
+              to: 'https://openremote.io/',
             },
             {
               label: 'News',
-              to: 'https://www.openremote.io/news/',
+              to: 'https://openremote.io/news/',
             },
             {
               label: 'Demo',
-              href: 'https://www.openremote.io/demo/',
+              href: 'https://openremote.io/demo/',
             },
             {
               label: 'Source Code',
-              href: 'https://github.com/openremote/openremote/',
+              href: 'https://github.com/openremote/core/',
             },
             {
               label: 'OSS Licensing',
@@ -156,7 +156,7 @@ const config: Config = {
             },
             {
               label: 'Contact',
-              href: 'https://www.openremote.io/contact/',
+              href: 'https://openremote.io/contact/',
             },
             {
               label: 'Privacy Policy',
